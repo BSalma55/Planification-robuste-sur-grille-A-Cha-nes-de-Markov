@@ -1,0 +1,4 @@
+# Dépendances nécessaires pour le projet
+numpy>=1.19.0
+matplotlib>=3.3.0
+networkx>=2.5
