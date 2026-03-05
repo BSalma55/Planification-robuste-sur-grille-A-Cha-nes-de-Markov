@@ -247,12 +247,6 @@ $$N = (I - Q)^{-1} \qquad B = N \cdot R \qquad \mathbf{t} = N \cdot \mathbf{1}$$
 
 
 
----
-
-
-
----
-
 <div align="center">
 <i>Projet réalisé dans le cadre du cours Bases de l'Intelligence Artificielle — 2025–2026</i>
 </div>
