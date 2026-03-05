@@ -1,13 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-Mini-projet : Planification robuste sur grille : A* + Chaînes de Markov
-Point d'entrée principal du projet
-Auteur: À compléter
-Date: 2026
-"""
-
 import argparse
 import matplotlib.pyplot as plt
 from astar import Grid, AStar, compare_algorithms
