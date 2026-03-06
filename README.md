@@ -8,8 +8,8 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4%2B-11557C?style=flat-square)](https://matplotlib.org/)
 [![NetworkX](https://img.shields.io/badge/NetworkX-2.6%2B-orange?style=flat-square)](https://networkx.org/)
 
-*Mini-projet — Bases de l'Intelligence Artificielle | 2025–2026*
-*Réalisé par : BALMIR Salma*
+*Mini-projet — Bases de l'Intelligence Artificielle | 2025–2026* <br>
+*Réalisé par : BALMIR Salma*<br>
 *Supervisé par : M.MESTARI Mohamed*
 
 [Vue d'ensemble](#-vue-densemble) •
