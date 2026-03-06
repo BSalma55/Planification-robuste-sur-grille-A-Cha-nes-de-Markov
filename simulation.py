@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-simulation.py -- Simulation Monte-Carlo de trajectoires
-Mini-projet : Planification robuste sur grille
-A* + Chaînes de Markov (2025-2026)
 
-Phase P5 : Validation empirique vs théorie
-"""
 
 import numpy as np
 from collections import defaultdict
@@ -252,7 +246,7 @@ class MarkovSimulation:
 
 # Test basique
 if __name__ == "__main__":
-    from grid import Grid
+    from Grid import Grid
     from astar import AStar
     from markov import MarkovChain
     

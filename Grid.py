@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-grid.py -- Modélisation de la grille 2D
-Mini-projet : Planification robuste sur grille
-A* + Chaînes de Markov (2025-2026)
-"""
+
 
 import numpy as np
 

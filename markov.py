@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-markov.py -- Chaine de Markov pour modeliser l'incertitude
-Mini-projet : Planification robuste sur grille
-A* + Chaines de Markov (2025-2026)
-"""
+
 
 import numpy as np
 import networkx as nx
